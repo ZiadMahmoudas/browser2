@@ -1,0 +1,1 @@
+import{Jb as r,Xa as e,rb as o,sb as i}from"./chunk-6J355LMB.js";var n=class s{static \u0275fac=function(t){return new(t||s)};static \u0275cmp=e({type:s,selectors:[["app-vistors"]],decls:2,vars:0,template:function(t,p){t&1&&(o(0,"p"),r(1,"vistors works!"),i())},encapsulation:2})};export{n as Vistors};

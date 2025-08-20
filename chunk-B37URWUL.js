@@ -1,0 +1,1 @@
+import{Jb as s,Xa as a,rb as t,sb as i}from"./chunk-6J355LMB.js";var c=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=a({type:o,selectors:[["app-social"]],decls:2,vars:0,template:function(e,l){e&1&&(t(0,"p"),s(1,"social works!"),i())},encapsulation:2})};export{c as Social};
